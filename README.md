@@ -46,7 +46,7 @@ The data warehouse is built in **three logical layers**:
 
 ## 🙋‍♂️ Author
 
-  Mohamed Belal
-  Data Engineer
-🔗 LinkedIn
+  - **Mohamed Belal**
+  - **Data Engineer**
+  -🔗 LinkedIn
 
